@@ -1,0 +1,21 @@
+.menu{
+    background-color: #d6afdc;
+    width: 410px;
+    height: 39px;
+    margin: auto;
+    padding-top: 18px;
+    padding-left: 16px;
+
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 7px;
+}
+
+a:hover{
+    background-color: blue;
+}
+
